@@ -1,4 +1,4 @@
-package io.github.yhugorocha.GenAI;
+package io.github.yhugorocha.gen;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

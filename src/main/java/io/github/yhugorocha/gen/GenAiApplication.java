@@ -1,4 +1,4 @@
-package io.github.yhugorocha.GenAI;
+package io.github.yhugorocha.gen;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package io.github.yhugorocha.GenAI.config;
+package io.github.yhugorocha.gen.config;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.google.genai.GoogleGenAiChatModel;
